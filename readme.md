@@ -1,6 +1,6 @@
 # Conveyor belt capacity check
 
-> Answers wheter or not the luggage is over or under the conveyor belts capacity
+### > Answers the questio : is the luggage over or under the conveyor belts capacity
 
 ---
 
