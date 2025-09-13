@@ -54,4 +54,4 @@ Draw a flowchart for this problem.
 
 [Flowchart](flowchart.png)
 
-Make the code :: its here ¯\_(ツ)_/¯
+Make the code :: [code](main.c)
